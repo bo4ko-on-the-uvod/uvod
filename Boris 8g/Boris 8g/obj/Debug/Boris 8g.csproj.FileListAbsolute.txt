@@ -1,0 +1,7 @@
+C:\Users\Boris\Desktop\gogle drive\school\Boris 8g\Boris 8g\bin\Debug\Boris 8g.exe.config
+C:\Users\Boris\Desktop\gogle drive\school\Boris 8g\Boris 8g\bin\Debug\Boris 8g.exe
+C:\Users\Boris\Desktop\gogle drive\school\Boris 8g\Boris 8g\bin\Debug\Boris 8g.pdb
+C:\Users\Boris\Desktop\gogle drive\school\Boris 8g\Boris 8g\obj\Debug\Boris 8g.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\gogle drive\school\Boris 8g\Boris 8g\obj\Debug\Boris 8g.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\gogle drive\school\Boris 8g\Boris 8g\obj\Debug\Boris 8g.exe
+C:\Users\Boris\Desktop\gogle drive\school\Boris 8g\Boris 8g\obj\Debug\Boris 8g.pdb
